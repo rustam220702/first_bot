@@ -1,0 +1,2 @@
+TG_TOKEN="1673225099:AAFreIM6UL9xtZ4DBv0fi0fA17VGFORBkLY"
+TG_API_URL="http://telegg.ru/orig/bot"
